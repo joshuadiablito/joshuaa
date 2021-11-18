@@ -75,14 +75,8 @@ function SEO({ description, lang, meta, keywords, ogImage, title }) {
           >
             <link rel="preconnect" href="https://fonts.gstatic.com" />
             <link
-              href="https://fonts.googleapis.com/css2?family=Arimo&display=swap"
-              rel="preload"
-              as="style"
-            />
-            <link
-              href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap"
-              rel="preload"
-              as="style"
+              href="https://fonts.googleapis.com/css?family=Lato:300,700|Prata"
+              rel="stylesheet"
             />
             <script
               async
@@ -98,7 +92,7 @@ function SEO({ description, lang, meta, keywords, ogImage, title }) {
 
               gtag('js', new Date());
 
-              gtag('config', 'G-Y9J17LH8K6');
+              gtag('config', 'G-W7YFW7L1EC');
               `}
             </script>
           </Helmet>
