@@ -6,9 +6,15 @@ a {
   font-weight: 300;
 }
 
-a {
+a,
+a:link,
+a:visited,
+a:hover {
   font-weight: bold;
   text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
 }
 h1,
 h2,

@@ -40,14 +40,6 @@ const Navigation = () => {
             overflow-x: hidden;
             position: relative;
           }
-          a {
-            color: #000;
-            font-weight: bold;
-          }
-          a.active {
-            color: #fff;
-            font-weight: bolder;
-          }
         `}
       />
       <a
